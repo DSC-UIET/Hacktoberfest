@@ -65,5 +65,5 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
  ## Web Development
  ### Reactjs
  - A simple todo app in Reactjs(<a href="https://github.com/srebalaji/Todo-er">Repo</a>)
-### Vanilla ES5 Javascript.
+### Vanilla_ES5_Javascript.
 - Calculator 🧮(<a href="https://github.com/Jookie262/Calculator">Repo</a>)
