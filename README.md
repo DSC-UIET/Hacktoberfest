@@ -27,7 +27,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 ## Machine Learning
 ### NLP 
-*Students can implement or can show implementation details via slides and Make PR to this Repo only* 
+*Students can implement or can show implementation details via slides and Make PR to this Repo only*, <a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Attention%20is%20all%20you%20need.pdf"> Example Format of Slides </a> 
 
 - Sentiment Analysis of Twitter Messages Using Word2Vec (<a href="http://csis.pace.edu/~ctappert/srd2017/2016fallproj/d4t07.pdf"> Paper </a>)
 - When does a Compliment become Sexist? Analysis and Classification of,Ambivalent Sexism using Twitter Data (<a href="https://www.aclweb.org/anthology/W17-2902.pdf">Paper</a>)
