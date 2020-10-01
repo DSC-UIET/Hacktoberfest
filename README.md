@@ -47,23 +47,23 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - Redmi Note 7s Calculator Clone (<a href="https://github.com/ankay212000/Flutter_based_calculator"> Repo </a>) (Basic, Search for bugs, add feature,create issues and solve them)
 - Music Player (<a href="https://github.com/iampawan/Flutter-Music-Player"> Repo </a>) (Intermediate,Search for bugs, add feature,create issues and solve them)
 
-### DS_Algo
-## C++
+## DS_Algo
+### C++
 - New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
-## Javascript
+### Javascript
 - Problem Solving using Javascript(<a href="https://github.com/knaxus/problem-solving-javascript">Repo</a>)
 
-### OpenCV
+## OpenCV
 
 - Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">Repo</a>) (Python, Look For bugs, Make code modular)(easy)
 - Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">Repo</a>) (Improve game UI)(easy)
 - Exercise-with-OpenCV Game (<a href="https://github.com/janmejai2002/Exercise-with-OpenCV">Repo</a>) (Code for scoring, Game UI, Code for detecting player's hand)(easy)
 
-### Python_Projects
+## Python_Projects
  - Virtual assistant (<a href= "https://github.com/rajatmittalc/Virtual-assistant-in-python">Repo</a>) ( provide GUI, add new features ) (intermediate)
  
- ### Web Development
- ## Reactjs
+ ## Web Development
+ ### Reactjs
  - A simple todo app in Reactjs(<a href="https://github.com/srebalaji/Todo-er">Repo</a>)
-## Vanilla ES5 Javascript.
+### Vanilla ES5 Javascript.
 - Calculator 🧮(<a href="https://github.com/Jookie262/Calculator">Repo</a>)
