@@ -43,12 +43,13 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - Rethinking Reprojection: Closing the Loop for Pose-aware Shape, Reconstruction from a Single Image (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/Zhu_Rethinking_Reprojection_Closing_ICCV_2017_paper.pdf"> Paper </a>)
 - A Style-Based Generator Architecture for Generative Adversarial Networks (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/StyleGANs.pdf"> Paper </a>)
 
-### Misc
-- COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/DeepMind.pdf"> Paper </a>)
-
 ### Computer_Vision_NLP
 - Image Captioning using InceptionV3 and Beam (<a href="https://github.com/archit31uniyal/image-captioning-using-inception-v3-and-beam-search"> Repo </a>) (Intermediate)
 - Fun With Machine Learning (<a href="https://github.com/jinsel/Fun-with-Machine-Learning"> Repo </a>)(Beginner, Intermediate, Web Dev)
+
+### Misc
+- COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/DeepMind.pdf"> Paper </a>)
+
 ## Mobile Development
 ### Flutter 
 *Students can solve issues of these projects by making PRs to their repo*
