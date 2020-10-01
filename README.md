@@ -16,7 +16,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 | Index | Tracks | Sub-Category/Tech-Stack |
 | --- | --- | --- |
-| 1 | Machine learning |[NLP](#nlp), [Computer Vision](#computer_vision), [CV+NLP](#computer_vision_NLP)|
+| 1 | Machine learning |[NLP](#nlp), [Computer Vision](#computer_vision), [CV+NLP](#computer_vision_NLP),[Image_Processing](#image_processing),[Misc](#misc)|
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development|[Reactjs](#reactjs),[Vanilla ES5 Javascript](#Vanilla_ES5_Javascript)|
 | 4 | DS Algo | [Questions](#ds_algo)|
@@ -32,9 +32,19 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - Sentiment Analysis of Twitter Messages Using Word2Vec (<a href="http://csis.pace.edu/~ctappert/srd2017/2016fallproj/d4t07.pdf"> Paper </a>)
 - When does a Compliment become Sexist? Analysis and Classification of,Ambivalent Sexism using Twitter Data (<a href="https://www.aclweb.org/anthology/W17-2902.pdf">Paper</a>)
 - Sentiment Analysis Using Deep Learning Techniques: A Review (<a href="https://pdfs.semanticscholar.org/8892/24a64a5bc5f9e965f418a63b6768f7164993.pdf"> Paper </a>)
+- DialogueRNN: An Attentive RNN for Emotion Detection in Conversations (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/DialogueRNN.pdf"> Paper </a>)
+- Adversarial Autoencoderss (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/Adversarial%20Autoencoderss.pdf"> Paper </a>)
+- AbstractiveTextSummarization (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/AbstractiveTextSummarization.pdf"> Paper </a>)
 
 ### Computer_Vision
 - Goggles for blind (<a href="https://github.com/ankay212000/Goggles_for_blind"> Repo </a>) (Intermediate)
+
+### Image_Processing
+- Rethinking Reprojection: Closing the Loop for Pose-aware Shape, Reconstruction from a Single Image (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/Zhu_Rethinking_Reprojection_Closing_ICCV_2017_paper.pdf"> Paper </a>)
+- A Style-Based Generator Architecture for Generative Adversarial Networks (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/StyleGANs.pdf"> Paper </a>)
+
+### Misc
+- COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING (<a href="https://github.com/DSC-UIET/Hacktoberfest/blob/master/Research%20Papers/DeepMind.pdf"> Paper </a>)
 
 ### Computer_Vision_NLP
 - Image Captioning using InceptionV3 and Beam (<a href="https://github.com/archit31uniyal/image-captioning-using-inception-v3-and-beam-search"> Repo </a>) (Intermediate)
