@@ -35,7 +35,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 ### Computer_Vision
 - Goggles for blind (<a href="https://github.com/ankay212000/Goggles_for_blind"> Repo </a>) (Intermediate)
 
-### CV & NLP
+### CV&NLP
 - Image Captioning using InceptionV3 and Beam (<a href="https://github.com/archit31uniyal/image-captioning-using-inception-v3-and-beam-search"> Repo </a>) (Intermediate)
 
 ## Mobile Development
