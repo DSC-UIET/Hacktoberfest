@@ -16,7 +16,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 | Index | Tracks | Sub-Category/Tech-Stack |
 | --- | --- | --- |
-| 1 | Machine learning |[NLP](#nlp), [Computer Vision](#computer_vision)|
+| 1 | Machine learning |[NLP](#nlp), [Computer Vision](#computer_vision), [CV+NLP](#cv&nlp)|
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
 | 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
@@ -34,6 +34,9 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 ### Computer_Vision
 - Goggles for blind (<a href="https://github.com/ankay212000/Goggles_for_blind"> Repo </a>) (Intermediate)
+
+### CV & NLP
+- Image Captioning using InceptionV3 and Beam (<a href="https://github.com/archit31uniyal/image-captioning-using-inception-v3-and-beam-search"> Repo </a>) (Intermediate)
 
 ## Mobile Development
 ### Flutter 
