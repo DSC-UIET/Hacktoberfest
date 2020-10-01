@@ -37,7 +37,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 ### Computer_Vision_NLP
 - Image Captioning using InceptionV3 and Beam (<a href="https://github.com/archit31uniyal/image-captioning-using-inception-v3-and-beam-search"> Repo </a>) (Intermediate)
-
+- Fun With Machine Learning (<a href="https://github.com/jinsel/Fun-with-Machine-Learning"> Repo </a>)(Beginner, Intermediate, Web Dev)
 ## Mobile Development
 ### Flutter 
 *Students can solve issues of these projects by making PRs to their repo*
