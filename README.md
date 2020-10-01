@@ -50,5 +50,6 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 ## Computer Vision(Open CV)
 ### OpenCV
 
-- Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">Repo</a>) (Python, Look For bugs, Make code modular)
-- Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">Repo</a>) (Improve game UI)
+- Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">Repo</a>) (Python, Look For bugs, Make code modular)(easy)
+- Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">Repo</a>) (Improve game UI)(easy)
+- Exercise-with-OpenCV Game (<a href="https://github.com/janmejai2002/Exercise-with-OpenCV">Repo</a>) (Code for scoring, Game UI, Code for detecting player's hand)(easy)
