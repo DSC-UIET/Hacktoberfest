@@ -21,6 +21,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 | 3 | Web Development| |
 | 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
 | 5 | Computer Vision (OpenCV) | [OpenCV](#OpenCV) |
+| 6 | Basic python projects | [Python_Projects](#Python_Projects) |
 
 *We encourage you to contribute to some projects instead of simple repos with just question and answers (like DS Algo), but if anyone struggles with git and github then they can refer to that repo*
 
@@ -55,3 +56,6 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">Repo</a>) (Python, Look For bugs, Make code modular)(easy)
 - Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">Repo</a>) (Improve game UI)(easy)
 - Exercise-with-OpenCV Game (<a href="https://github.com/janmejai2002/Exercise-with-OpenCV">Repo</a>) (Code for scoring, Game UI, Code for detecting player's hand)(easy)
+
+## Python_Projects
+ - Virtual assistant (<a href= "https://github.com/rajatmittalc/Virtual-assistant-in-python">Repo</a>) ( provide GUI, add new features ) (intermediate)
