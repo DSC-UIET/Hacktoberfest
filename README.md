@@ -63,6 +63,8 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
 ### Javascript
 - Problem Solving using Javascript(<a href="https://github.com/knaxus/problem-solving-javascript">Repo</a>)
+### Blend
+- Data-Structures-and-Algorithms(<a href="https://github.com/div-bargali/Data-Structures-and-Algorithms">Repo</a>)
 
 ## OpenCV
 
